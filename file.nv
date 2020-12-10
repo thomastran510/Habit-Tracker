@@ -1,0 +1,1 @@
+DB_CONNECT = mongodb+srv://hbtracker:<124>@cluster0.p9nlz.mongodb.net/<dbname>?retryWrites=true&w=majority
